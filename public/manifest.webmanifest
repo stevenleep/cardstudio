@@ -1,0 +1,17 @@
+{
+  "name": "Neo Gen - Card Generator",
+  "short_name": "闪卡",
+  "description": "Neo-Brutalism card generator for social media",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFDFD",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
